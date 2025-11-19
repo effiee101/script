@@ -1,161 +1,155 @@
-# GreenLoop
----
-
-
-### Speaker Order
-
-* **Orin:** Slides 1, 2, 3, 4, 5, 6
-* **Sumaiya:** Slides 7, 8, 9, 10, 11
 
 ---
 
-# FULL SCRIPT
+# **GreenLoop Textiles Ltd. – Presentation Script (Simple + AI Highlighted)**
 
 ---
 
-## Slide 1 – Welcome
+### **Slide 1: Welcome**
 
 **Orin:**
-Good morning, and thank you for being here.
-We are **GreenLoop Textiles Ltd.**, based in Dhaka, Bangladesh.
-Our company focuses on recycling textile waste and turning it into high-quality recycled materials.
-Today, we will walk you through our company, market opportunity, and financial plan.
+“Good morning everyone. Welcome to **GreenLoop Textiles Ltd.**
+We turn **pre-consumer textile waste** into high-quality fiber in Dhaka.
+Today, we will share our **business, products, market, funding, risks, and growth plan**.”
 
 ---
 
-## Slide 2 – Executive Summary
+### **Slide 2: Executive Summary**
 
 **Orin:**
-GreenLoop collects cutting-room scraps and deadstock from garment factories and converts them into **recycled cotton fiber and polyester-based materials**.
+“Our business is simple: we take **cutting room scraps and deadstock** and make new fibers.
+We are located near **Savar and Gazipur**, close to major factories.
+GreenLoop is a **Private Limited Company**.
 
-Our location near Savar and Gazipur gives us easy access to large garment factories.
-We are officially registered as a Private Limited Company under RJSC.
+Bangladesh is a **top green garment hub**, and factories need **sustainable materials**.
 
-The global shift toward sustainability creates a major opportunity.
-Brands now demand **traceable, certified, and low-carbon materials**, and we aim to meet this growing need.
+**Why we are unique and effective:**
+
+* Focus on **pre-consumer waste**, mostly ignored by others.
+* Offer **fiber recycling plus zero-waste consulting**.
+* Use **AI and traceability systems** to track every batch of fiber.
+
+  * This helps factories meet **LEED and EU standards**.
+* Use **green loans** to grow fast.
+
+This makes GreenLoop **faster, smarter, and tech-enabled** compared to big players like Beximco or Akij.”
 
 ---
 
-## Slide 3 – Market Analysis
+### **Slide 3: Market Analysis (2026–2028)**
 
 **Orin:**
-Bangladesh generates around **400,000 metric tons** of pre-consumer textile waste every year.
-This includes cotton scraps, yarn waste, and packaging waste.
+“Bangladesh produces around **400,000 tons of pre-consumer textile waste** yearly.
+Our target for FY26 is **2,500 tons**, about 1% of the market.
 
-Our target for FY 2026 is to process **2,500 metric tons**, which is just **1%** of the total available waste.
-This shows strong potential for future expansion.
+Factories need **traceable, sustainable materials** for certifications.
 
-Demand for recycled materials is growing because of **EU regulations**, global brand commitments, and the need for more sustainable supply chains.
-This makes our business both relevant and timely.
+**Our advantage:**
+
+* Most pre-consumer waste is **not recycled** yet.
+* Our **AI-based system** tracks every fiber and shows factories where it comes from.
+* This builds **trust and transparency**, giving us an edge over larger companies.”
 
 ---
 
-## Slide 4 – Products & Services
+### **Slide 4: Products & Services**
 
 **Orin:**
-Our company offers three main products and services.
+“We offer:
 
-First, **Recycled Cotton Fiber**, produced through an advanced de-fiberization process.
-Factories can blend this fiber with virgin cotton for open-end spinning.
+1. **Recycled Cotton Fiber** – mix with virgin cotton.
+2. **Recycled Polyester Yarn** – from RMG packaging waste.
+3. **Zero-Waste Consulting** – help factories manage waste and get sustainable materials.
+4. **AI & Traceability Feature** – ensures fibers are fully trackable for compliance.
 
-Second, **Recycled Polyester Yarn**, created from PET and packaging waste collected from the supply chain.
-
-Third, we provide **Zero-Waste Consulting** to factories.
-We help them improve segregation, organize waste flow, and set up long-term supply agreements.
-This ensures stable sourcing for our operation.
+We are **more than a fiber company**. We help factories **save resources, reduce waste, and stay green**.”
 
 ---
 
-## Slide 5 – Funding Strategy: Green Transformation Fund
+### **Slide 5: Funding Strategy: GTF Advantage**
 
 **Orin:**
-To finance our project, we plan to use the **Green Transformation Fund**, or GTF, from Bangladesh Bank.
-This fund supports environmentally friendly and energy-efficient industries.
+“We use the **Green Transformation Fund** from Bangladesh Bank:
 
-The biggest advantage is the lower interest rate—**4% to 4.5%**, instead of the **10%–12%** typical in commercial loans.
-The loan term is up to **10 years**, giving us strong financial flexibility.
+* **Interest rate:** 4–4.5% (much lower than 10–12%).
+* **Loan term:** up to 10 years.
+* **Payback:** 4.5 years.
 
-Based on our projections, the payback period for this project will be around **4.5 years**, which makes it a good investment for lenders.
+This helps us **grow faster and cheaper** than traditional companies.”
 
 ---
 
-## Slide 6 – Financial Projections
+### **Slide 6: Financial Projections (FY26–28)**
 
 **Orin:**
-Our financial outlook is strong and realistic.
+“Our numbers:
 
-In FY 2026, we expect revenue of **BDT 50 million**, rising to **BDT 57.4 million** in FY 2027.
-This represents a growth rate of about **14.8%**.
+| Metric                 | FY26       | FY27      | Growth |
+| ---------------------- | ---------- | --------- | ------ |
+| Revenue                | 50M BDT    | 57.4M BDT | +15%   |
+| Gross Profit           | 20M        | 22.96M    | -      |
+| Expenses               | 10M        | 11.48M    | -      |
+| Net Profit             | 7.25M      | 8.32M     | -      |
+| IRR                    | 21.5%      | -         | -      |
+| Total Profit (FY26–28) | 25.48M BDT | -         | -      |
 
-Gross profit increases from **BDT 20 million** to **BDT 22.96 million**, and net profit rises from **BDT 7.25 million** to **BDT 8.32 million**.
-
-Our three-year IRR is estimated at **21.5%**, and the cumulative profit from FY 2026 to FY 2028 is **BDT 25.48 million**.
-
----
-
-# Now Sumaiya Starts
-
-(Slide 7 onward)
+Shows our business is **profitable and scalable**.”
 
 ---
 
-## Slide 7 – Risk Analysis
+### **Slide 7: Risk Analysis**
 
 **Sumaiya:**
-Thank you, Orin.
-I will now explain the key risks and our mitigation strategies.
+“Risks and how we manage them:
 
-**Economic Risk:**
-Inflation—especially energy costs—can affect our expenses.
-To reduce this impact, we will use energy-efficient machinery and plan utility costs in advance.
+1. **Economic Risk:** Inflation may raise costs.
+   **Plan:** Buy energy in advance.
 
-**Market Risk:**
-If global garment demand slows down, waste availability may decrease.
-To manage this, we will diversify into other waste categories such as **jute** and **leather**.
+2. **Market Risk:** Global slowdown may reduce waste.
+   **Plan:** Also recycle **jute and leather waste**.
 
-**Operational Risk:**
-Machinery breakdowns can interrupt production.
-We follow a preventive maintenance schedule and maintain a **5% spare-parts reserve** to reduce downtime.
+3. **Operational Risk:** Machines may break.
+   **Plan:** Keep **5% capital for spare parts**.
 
----
+**Our AI advantage:**
 
-## Slide 8 – Roadmap
-
-**Sumaiya:**
-Here is our development roadmap.
-
-By **Q1 2026**, we plan to finish the full GTF loan application and finalize machinery selection.
-By **Q2 2026**, we aim to sign agreements with at least five garment factories for waste supply.
-
-Our target for installation, testing, and full commercial operation is **Q4 2026**.
+* Our **AI & traceability system** reduces operational mistakes.
+* Factories can track fibers **in real-time**, reducing risk and improving trust.
+* This makes GreenLoop **safer and more reliable than competitors**.”
 
 ---
 
-## Slide 9 – Founding Team
+### **Slide 8: Conclusion & Roadmap**
 
 **Sumaiya:**
-Our team brings strong experience in circularity, technology, and operations.
+“Our plan:
 
-Orin leads strategy and technology, with experience in digital innovation.
-I lead circularity and ESG integration, focusing on waste-management systems in the RMG sector.
-Aifee manages AI systems and security compliance to ensure data accuracy and traceability.
+* **GTF Application:** Finish Q1 2026.
+* **Factory MOUs:** Secure 5 suppliers by Q2 2026.
+* **Commercial Launch:** Start production Q4 2026.
+
+This plan is **fast, safe, and sustainable**.”
 
 ---
 
-## Slide 10 – Q&A
+### **Slide 9: The Founding Team**
 
 **Sumaiya:**
-Thank you for listening.
-We are now ready to answer your questions about our business model, financial plan, or operations.
-We welcome your feedback.
+“Our team covers **strategy, sustainability, and tech**:
+
+* **Orin Khan, CEO:** Strategy and scaling expert.
+* **Sumaiya, Head of Circularity:** ESG and factory integration.
+* **Aifee Aadil, AI & Security:** Expert in **traceable systems and compliance**.
+
+Together, we cover **operations, technology, sustainability, and strategy**.”
 
 ---
 
-## Slide 11 – Thank You
+### **Slide 10: Q & A**
 
 **Sumaiya:**
-Thank you again for your time and attention.
-We appreciate your interest in GreenLoop Textiles and look forward to future discussions.
+“We are happy to answer any questions about our business, numbers, or plans.
+Thank you for your time and attention.”
 
 ---
 
