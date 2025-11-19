@@ -1,7 +1,7 @@
 
 ---
 
-# **GreenLoop Textiles Ltd. – Presentation Script (Simple + AI Highlighted)**
+# **GreenLoop Textiles Ltd. – Presentation Script **
 
 ---
 
